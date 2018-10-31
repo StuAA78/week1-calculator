@@ -5,7 +5,7 @@ class Calculator
   end
 
   def square(num)
-    num*num
+    multiply(num, num)
   end
 
 end
