@@ -1,5 +1,6 @@
 # WEEK 1 CALCULATOR
 ## USER STORIES
+```
 As a mathematician,
 So that I can perform astounding feats of arithmetic,
 I would like a calculator to be able to multiply two numbers
@@ -11,3 +12,4 @@ I would like a calculator to be able to square a number
 As a mathematician,
 So that I can properly enjoy the fruits of my calculations,
 I would like my calculator to output answers to my calculations in the format "the answer is xxxxxx"
+```
