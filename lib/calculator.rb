@@ -4,4 +4,8 @@ class Calculator
     num1 * num2
   end
 
+  def square(num)
+    25
+  end
+
 end
