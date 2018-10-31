@@ -10,4 +10,8 @@ describe Calculator do
     expect(subject.square(5)).to eq 25
   end
 
+  it "outputs in the format the answer is xxxxxx" do
+    expect{subject.square(5)}.to output("the answer is 25").to_stdout
+  end
+
 end
