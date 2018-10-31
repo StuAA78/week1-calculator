@@ -5,7 +5,7 @@ class Calculator
   end
 
   def square(num)
-    25
+    num*num
   end
 
 end
